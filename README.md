@@ -22,4 +22,8 @@
   </a>
   <br>
   <br>
+  <a href="https://sitoi.cn/">
+    <img src="https://github.com/Sitoi/Sitoi/blob/master/dino.gif" />
+  </a>
+    <br>
 </div>
