@@ -21,9 +21,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sitoi&repo=private-network-ipfs" />
   </a>
   <br>
-  <br>
-  <a href="https://sitoi.cn/">
-    <img src="https://github.com/Sitoi/Sitoi/blob/master/dino.gif" />
-  </a>
-    <br>
 </div>
