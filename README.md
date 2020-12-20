@@ -17,8 +17,8 @@
   <a href="https://github.com/Sitoi/SystemdClash">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sitoi&repo=SystemdClash" />
   </a>
-  <a href="https://github.com/Sitoi/private-network-ipfs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sitoi&repo=private-network-ipfs" />
+  <a href="https://github.com/Sitoi/dailycheckin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sitoi&repo=dailycheckin" />
   </a>
   <br>
 </div>
