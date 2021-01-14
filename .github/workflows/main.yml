@@ -29,8 +29,6 @@ jobs:
           config_padding: 10%
           use_prebuilt_image: master 
           user: Sitoi
-          plugin_posts: yes
-          plugin_posts_source: https://sitoi.cn
           plugin_followup: yes
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
