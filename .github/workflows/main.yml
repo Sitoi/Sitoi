@@ -17,10 +17,12 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: Sitoi
           config_timezone: Asia/Shanghai
-          config_order: base.header, base.repositories, followup, pagespeed, people
+          config_order: base.header, isocalendar, base.repositories, followup, pagespeed
           config_padding: 10%
           use_prebuilt_image: master
           base: "header, repositories"
+          plugin_isocalendar: yes
+          #          plugin_isocalendar_duration: full-year
           plugin_lines: yes
           plugin_traffic: yes
 
@@ -30,10 +32,6 @@ jobs:
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://sitoi.cn
 
-          plugin_people: yes
-          plugin_people_types: followers, following
-          plugin_people_limit: 28
-          plugin_people_size: 28
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@master
         with:
@@ -42,7 +40,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: Sitoi
           config_timezone: Asia/Shanghai
-          config_order: habits, stargazers, languages, isocalendar, stargazers, topics
+          config_order: habits, stargazers, languages, stargazers, topics, people
           config_padding: 10%
           use_prebuilt_image: master
           base: ""
@@ -56,9 +54,10 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_skipped: lowlighter
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
           plugin_topics: yes
           plugin_topics_mode: mastered
-          
+
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 28
+          plugin_people_size: 28
