@@ -32,7 +32,10 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://sitoi.cn
-          
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 28
+          plugin_people_size: 28
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@master
         with:
@@ -56,7 +59,4 @@ jobs:
           user: Sitoi
           plugin_topics: yes
           plugin_topics_mode: mastered
-          plugin_people: yes
-          plugin_people_types: followers, following
-          plugin_people_limit: 28
-          plugin_people_size: 28
+          
