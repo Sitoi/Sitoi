@@ -22,8 +22,7 @@ jobs:
           base: "header, repositories"
           plugin_lines: yes
           plugin_traffic: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          
           config_timezone: Asia/Shanghai
           config_order: base.header, isocalendar, base.repositories
           config_padding: 10%
@@ -45,6 +44,8 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_skipped: lowlighter
