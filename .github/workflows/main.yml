@@ -33,8 +33,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://sitoi.cn
-          plugin_topics: yes
-          plugin_topics_mode: mastered
+          
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@master
         with:
@@ -54,6 +53,8 @@ jobs:
           config_order: languages, pagespeed, habits, stargazers, stars
           use_prebuilt_image: master
           user: Sitoi
+          plugin_topics: yes
+          plugin_topics_mode: mastered
           plugin_people: yes
           plugin_people_types: followers, following
           plugin_people_limit: 28
