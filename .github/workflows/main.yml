@@ -22,7 +22,7 @@ jobs:
           base: "header, repositories"
           plugin_lines: yes
           plugin_isocalendar: yes
-          config_timezone: Europe/Paris
+          config_timezone: Asia/Shanghai
           config_order: base.header, isocalendar, base.repositories
           config_padding: 10%
           use_prebuilt_image: master 
@@ -48,7 +48,7 @@ jobs:
           config_timezone: Asia/Shanghai
           config_order: languages, pagespeed, habits, stargazers, stars
           use_prebuilt_image: master
-     
+          user: Sitoi     
       # Note the job below use a bot token with "public_repo" scope
       - name: Personal projects
         uses: lowlighter/metrics@latest
@@ -61,4 +61,5 @@ jobs:
           plugin_projects: yes
           plugin_projects_repositories: lowlighter/metrics/projects/1
           plugin_projects_limit: 0
-          config_timezone: Europe/Paris
+          config_timezone: Asia/Shanghai
+          user: Sitoi
