@@ -35,7 +35,6 @@ jobs:
           plugin_pagespeed_url: https://sitoi.cn
           plugin_topics: yes
           plugin_topics_mode: mastered
-          plugins_errors_fatal: yes
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@master
         with:
