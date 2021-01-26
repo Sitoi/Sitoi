@@ -92,6 +92,10 @@
     margin: 0 6px;
   }
 
+  .avatar.organization {
+    border-radius: 15%;
+  }
+
 /* Commit calendar */
   .calendar.field {
     margin: 4px 0;
@@ -1315,10 +1319,12 @@
       
         
       
-        <div class="row">
-  
-  
-</div>
+        
+  <div class="row">
+    
+    
+  </div>
+
       
         
       
