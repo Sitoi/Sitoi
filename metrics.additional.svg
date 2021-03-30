@@ -1106,8 +1106,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               14
             </div>
           
@@ -1188,20 +1188,20 @@
               </div>
             
               <div class="entry">
-                <span class="value">6</span>
+                <span class="value">7</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Tue
               </div>
             
               <div class="entry">
                 <span class="value">5</span>
-                <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Wed
               </div>
             
               <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Thu
               </div>
             
@@ -1213,7 +1213,7 @@
             
               <div class="entry">
                 <span class="value">2</span>
-                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sat
               </div>
             
@@ -1227,13 +1227,13 @@
             
               <div class="entry">
                 <span class="name">HTML</span>
-                <div class="bar" style="width: 77.808%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="width: 77.52799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 <span class="value">97%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Python</span>
-                <div class="bar" style="width: 2.168%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 2.4480000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">3%</span>
               </div>
             
@@ -1488,13 +1488,13 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="442.04038708987144" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="442.13510303994445" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="442.04038708987144" y="0" width="13.659615444176335" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="442.13510303994445" y="0" width="13.587576950869076" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="455.70000253404777" y="0" width="3.5028142008035745" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="455.7226799908135" y="0" width="3.4843409532665257" height="8" fill="#89e051"/>
         
-          <rect mask="url(#languages-bar)" x="459.2028167348514" y="0" width="0.7971832651486782" height="8" fill="#384d54"/>
+          <rect mask="url(#languages-bar)" x="459.20702094408006" y="0" width="0.7929790559199654" height="8" fill="#384d54"/>
         
       </svg>
       
