@@ -1195,13 +1195,13 @@
               17
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               18
             </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1246,8 +1246,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                <span class="value">2</span>
+                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
@@ -1272,13 +1272,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 75.176%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">94%</span>
+                            <div class="bar" style="width: 77.86399999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">97%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 4.824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">6%</span>
+                            <div class="bar" style="width: 2.1359999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
                         </div>
                     </div>
                 </section>
@@ -1483,10 +1483,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.72099176030827" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.72099176030827" y="0" width="13.981797169281139" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.7027889295894" y="0" width="5.481225088550027" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.1840140181394" y="0" width="0.8159859818605737" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.8533464468295" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="439.8533464468295" y="0" width="13.890542391953238" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.74388883878277" y="0" width="5.445450862326902" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.18933970110965" y="0" width="0.8106602988903635" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
