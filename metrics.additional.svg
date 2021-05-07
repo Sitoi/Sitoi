@@ -1160,8 +1160,8 @@
               10
             </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               11
             </div>
                     <div class="entry">
@@ -1256,8 +1256,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                <span class="value">1</span>
+                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1272,12 +1272,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 78.608%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 78.728%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">98%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 1.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
@@ -1487,10 +1487,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.887466378544" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.887466378544" y="0" width="13.867017673238037" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.754484051782" y="0" width="5.4362285658751865" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.1907126176572" y="0" width="0.8092873823427688" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.89861303546684" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="439.89861303546684" y="0" width="13.85933237155223" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.7579454070191" y="0" width="5.4332157294062196" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.1911611364253" y="0" width="0.8088388635746833" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
