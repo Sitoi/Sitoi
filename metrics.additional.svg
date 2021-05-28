@@ -250,7 +250,7 @@
     justify-content: space-around;
     margin-top: 4px;
   }
-  .categorie {
+  .category {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1324,16 +1324,6 @@
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 Sat
               </div>
-                    </div>
-                </section>
-                <section class="column chart">
-                    <h3>Language activity</h3>
-                    <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">HTML</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
-                        </div>
                     </div>
                 </section>
             </div>
