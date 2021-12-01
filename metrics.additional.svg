@@ -27,7 +27,7 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">1.40k</span>
+                                <span class="value">1.39k</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 18
                                 <div class="bottom">Nov.</div>
@@ -38,7 +38,7 @@
                                 19
                             </div>
                             <div class="entry">
-                                <span class="value">1.41k</span>
+                                <span class="value">1.40k</span>
                                 <div class="bar" style="height: 6.525423728813559px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 20
                             </div>
@@ -58,7 +58,7 @@
                                 23
                             </div>
                             <div class="entry">
-                                <span class="value">1.45k</span>
+                                <span class="value">1.44k</span>
                                 <div class="bar" style="height: 22.627118644067796px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 24
                             </div>
