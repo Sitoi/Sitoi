@@ -41,7 +41,7 @@
                                 15
                             </div>
                             <div class="entry">
-                                <span class="value">3.45k</span>
+                                <span class="value">3.44k</span>
                                 <div class="bar" style="height: 6.018518518518518px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
                             </div>
@@ -61,7 +61,7 @@
                                 19
                             </div>
                             <div class="entry">
-                                <span class="value">3.46k</span>
+                                <span class="value">3.45k</span>
                                 <div class="bar" style="height: 21.85185185185185px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 20
                             </div>
@@ -81,7 +81,7 @@
                                 23
                             </div>
                             <div class="entry">
-                                <span class="value">3.47k</span>
+                                <span class="value">3.46k</span>
                                 <div class="bar" style="height: 41.2037037037037px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 24
                             </div>
@@ -106,8 +106,8 @@
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">+2</span>
-                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 14
                                 <div class="bottom">Dec.</div>
                             </div>
