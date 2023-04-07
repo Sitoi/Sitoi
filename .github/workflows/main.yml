@@ -32,7 +32,6 @@ jobs:
           base_hireable: yes
           config_display: columns
           config_octicon: yes
-          config_presets: @sitoi
           config_timezone: Asia/Shanghai
           config_twemoji: yes
           plugin_achievements: yes
