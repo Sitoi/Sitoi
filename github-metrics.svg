@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.35m added, 10.8k removed
+                                    1.59m added, 113k removed
                                 </div>
                             </section>
                             <section>
@@ -252,8 +252,8 @@
                             <rect mask="url(#issues-bar)" x="0" y="0" width="5.057471264367816" height="8" fill="#56d364"/>
                             <rect mask="url(#issues-bar)" x="5.057471264367816" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="5.057471264367816" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="5.057471264367816" y="0" width="2.528735632183908" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="7.586206896551724" y="0" width="212.41379310344828" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="5.057471264367816" y="0" width="3.371647509578544" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="8.42911877394636" y="0" width="211.57088122605364" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
@@ -310,7 +310,7 @@
                                     <path fill="#d2a8ff" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">252 <small>closed</small></span>
+                                <span class="no-wrap">251 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2833,7 +2833,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 9.28k out of 51.6m repositories</span>
+                                    <span class="gh">ranked 9.28k out of 49.9m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1030</div>
                                     </div>
@@ -2986,7 +2986,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.46k out of 51.6m repositories</span>
+                                    <span class="gh">ranked 9.46k out of 49.9m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4406</div>
                                     </div>
@@ -3077,7 +3077,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.1k out of 128m users</span>
+                                    <span class="gh">ranked 29.1k out of 127m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">284</div>
                                     </div>
@@ -3120,7 +3120,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.15m out of 128m users</span>
+                                    <span class="gh">ranked 3.15m out of 127m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -3752,7 +3752,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2024, 06:09:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2024, 07:10:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
